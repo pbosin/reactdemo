@@ -1,3 +1,14 @@
+# PB: demo app for React;
+
+Implemented concepts:
+* Single layer of components
+* Single data access service
+* react-router
+* react-bootstrap for styling
+
+Server side Restful api [hosted at http://thinkful-pb-1.getsandbox.com](http://thinkful-pb-1.getsandbox.com)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
